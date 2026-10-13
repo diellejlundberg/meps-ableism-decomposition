@@ -1,2 +1,2 @@
-# meps-ableism-decomposition
+# Analytic Code for Ableism in Health Care Settings Decomposition Analysis
 Unpublished code for working paper "Disability, ableism in health care settings, and health disparities among US adults: a cross-sectional decomposition analysis"
